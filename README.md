@@ -13,9 +13,10 @@ This repository contains UI and API test automation scripts using **Playwright**
  **Installation & Setup**
 1. **Clone the repository**:
    git clone https://github.com/mithlesh-27/FinacPlus_Assignment.git
+   
    cd FinaPlus_Assignment
    
-2. **Install dependencies**:
+3. **Install dependencies**:
    => npm install
    => npx playwright install
    => npx playwright test
